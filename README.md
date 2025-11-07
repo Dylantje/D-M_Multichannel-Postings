@@ -1,2 +1,2 @@
-# D.-M.-Multichannel-Postings
+# D_M-Multichannel-Postings
 Home Assistant postings option
